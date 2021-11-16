@@ -8,7 +8,7 @@
     "build": "babel routes --out-dir dist"
   },
   "dependencies": {
-    "aws-sdk": "^2.466.0",
+    "aws-sdk": "^2.814.0",
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
